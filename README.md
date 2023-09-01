@@ -7,3 +7,5 @@
 ## Added some google fonts to the page
 
 ## Added gift cover image to the page
+
+## Added two gifs to the page
